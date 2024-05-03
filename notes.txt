@@ -1,0 +1,2 @@
+[] http://localhost/bc10/blog/post.php?id=2   / check related posts
+[] 
